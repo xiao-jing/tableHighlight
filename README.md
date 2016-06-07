@@ -1,5 +1,5 @@
-#### tableHighlight
+#### 小结
 
-A table highlight with pure css ~
+这个小demo的书写巧用了 `z-index` 属性以及 `:before`伪元素 ~，同时背景使用了 `linear-gradiant` 属性， 实现的效果还是比较令人满意的 ~~
 
-[table highlight](http://xiao-jing.github.io/demo/pure-css-table-highlight.html)
+[页面展示](http://xiao-jing.github.io/demo/pure-css-table-highlight.html)
